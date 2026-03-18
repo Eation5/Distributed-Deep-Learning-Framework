@@ -1,1 +1,1 @@
-Commit on 2025-06-04T11:48:36Z: Clean up legacy code and improve variable naming
+Commit on 2025-06-04T13:54:58Z: Update documentation with new API endpoints
