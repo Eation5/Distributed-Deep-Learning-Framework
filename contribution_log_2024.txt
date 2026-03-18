@@ -1,1 +1,1 @@
-Commit on 2024-11-06T10:28:12Z: Refactor module organization
+Commit on 2024-11-06T16:49:17Z: Update README with project goals
