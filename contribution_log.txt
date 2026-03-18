@@ -1,1 +1,1 @@
-Commit on 2025-09-15T11:15:01Z: Update dependencies to latest versions
+Commit on 2025-04-17T13:32:40Z: Update documentation and usage examples
