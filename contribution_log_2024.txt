@@ -1,1 +1,1 @@
-Commit on 2024-11-14T14:52:07Z: Setup data ingestion pipelines
+Commit on 2024-11-14T21:53:23Z: Update README with project goals
