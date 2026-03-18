@@ -1,1 +1,1 @@
-Commit on 2025-08-07T19:05:07Z: Update README with new benchmark results
+Commit on 2025-08-07T13:21:45Z: Streamline CI/CD configuration
