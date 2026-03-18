@@ -1,1 +1,1 @@
-Commit on 2025-07-25T17:18:18Z: Optimize SQL queries for large-scale data ingestion
+Commit on 2025-07-25T09:49:59Z: Update documentation with new API endpoints
