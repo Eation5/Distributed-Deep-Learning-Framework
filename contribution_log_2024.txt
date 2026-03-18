@@ -1,1 +1,1 @@
-Commit on 2024-12-13T20:49:24Z: Finalize initial release features
+Commit on 2024-12-13T14:43:06Z: Update README with project goals
