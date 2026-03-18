@@ -1,1 +1,1 @@
-Commit on 2025-10-27T19:40:37Z: Update dependencies to latest versions
+Commit on 2025-10-27T10:04:24Z: Improve logging and error handling
