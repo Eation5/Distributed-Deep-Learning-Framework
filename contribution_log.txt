@@ -1,1 +1,1 @@
-Commit on 2025-07-31T12:29:27Z: Implement unit tests for feature extraction
+Commit on 2025-07-31T21:25:37Z: Improve logging and error handling
